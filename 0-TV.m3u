@@ -1,0 +1,449 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="宗教",生命電視台
+http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
+#EXTINF:-1 group-title="宗教",生命電視台
+http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+#EXTINF:-1 group-title="宗教",人間衛視
+http://211.23.114.106:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
+#EXTINF:-1 group-title="宗教",人間衛視
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="宗教",人間衛視
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 group-title="宗教",人間衛視
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 group-title="宗教",唯心
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 group-title="宗教",唯心
+https://epg.pw/stream/7d651c567d48727fc8f95cef7d2b349246baef656e557211c784bc62024b10d0.m3u8
+#EXTINF:-1 group-title="宗教",唯心
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="宗教",佛衛慈悲台
+http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8?fbclid=IwAR0tOOH5nMOCvkCFTXbHgyO6P95nuOS3MNCfYDflXYkqsUVGfApmPOLWeR0
+#EXTINF:-1 group-title="宗教",孝廉
+http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
+
+
+#EXTINF:-1 group-title="台灣電視",民視
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="台灣電視",台視
+台視,rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="台灣電視",台視
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+#EXTINF:-1 group-title="台灣電視",台視
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+#EXTINF:-1 group-title="台灣電視",中視
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="台灣電視",中視
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1048
+#EXTINF:-1 group-title="台灣電視",華視
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="台灣電視",華視
+http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+#EXTINF:-1 group-title="台灣電視",華視
+http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
+
+#EXTINF:-1 group-title="台灣電視",公視
+http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
+#EXTINF:-1 group-title="台灣電視",公視
+https://epg.pw/stream/5c0663273403c40461cd1ae04cc5cfa4bb9d5d626270d5ec1754aeb554c3020b.m3u8
+#EXTINF:-1 group-title="台灣電視",大愛
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+#EXTINF:-1 group-title="台灣電視",大愛
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="台灣電視",大愛1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="台灣電視",大愛1台
+http://198.16.100.90:8278/daai_twn/playlist.m3u8?tid=ME5E3594665135946651&ct=19249&tsum=1628ac38fd6a79879fccae39de8e845b
+#EXTINF:-1 group-title="台灣電視",大愛2台
+https://epg.pw/stream/8dab0126668b960d4130c12b25e9278ffda43f5b66fa986287ed34cd97cbd721.m3u8
+#EXTINF:-1 group-title="台灣電視",大愛2台
+https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
+#EXTINF:-1 group-title="台灣電視",大愛2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="台灣電視",大愛二台
+https://epg.pw/stream/1f3e158520af1be7f1dfdd5c56fe0393e54fe4bde8d8fbdfe04f74185117e9db.m3u8
+
+#EXTINF:-1 group-title="台灣電視",國家地理HD
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1003
+#EXTINF:-1 group-title="台灣電視",DISCOVERY
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1002
+#EXTINF:-1 group-title="台灣電視",動物星球
+https://epg.pw/stream/0e38a2ff528e933b9a9dc37acf08f88b9ac4c118cdbba4adac0517303612645e.m3u8
+#EXTINF:-1 group-title="台灣電視",亞洲旅遊台
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1219
+#EXTINF:-1 group-title="台灣電視",TLC旅遊生活
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1005
+#EXTINF:-1 group-title="台灣電視",EYETV旅游
+http://198.16.100.90:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
+#EXTINF:-1 group-title="台灣電視",momo親子台
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1007
+#EXTINF:-1 group-title="台灣電視",東森幼幼
+https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
+#EXTINF:-1 group-title="台灣電視",東森幼幼HD
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1008
+#EXTINF:-1 group-title="台灣電視",東森幼幼
+http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+#EXTINF:-1 group-title="台灣電視",龍華卡通台
+http://lzoq.hk3c.ml/daili/cdn.php?id=custom29
+#EXTINF:-1 group-title="台灣電視",緯來綜合
+http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
+#EXTINF:-1 group-title="台灣電視",緯來育樂
+rtmp://9sv2.mine.nu/sat/tv701
+#EXTINF:-1 group-title="台灣電視",緯來育樂
+http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1 group-title="台灣電視",緯來育樂HD
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1045
+#EXTINF:-1 group-title="台灣電視",緯來戲劇
+http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 group-title="台灣電視",緯來日本
+rtmp://9sv2.mine.nu/sat/tv771
+#EXTINF:-1 group-title="台灣電視",緯來日本
+rtmp://9sv2.mine.nu:1935/sat/tv771
+#EXTINF:-1 group-title="台灣電視",緯來日本HD
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1026
+#EXTINF:-1 group-title="台灣電視",八大綜合
+http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
+#EXTINF:-1 group-title="台灣電視",八大綜合
+http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+#EXTINF:-1 group-title="台灣電視",八大綜合
+https://epg.pw/stream/adb797f4658363759c5a408dfec1e091e7cfe712fe04afaa3b8d7670efef57e1.m3u8
+#EXTINF:-1 group-title="台灣電視",八大第一
+http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+#EXTINF:-1 group-title="台灣電視",八大第一
+http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+#EXTINF:-1 group-title="台灣電視",八大戲劇
+http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1 group-title="台灣電視",八大電視
+https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8
+#EXTINF:-1 group-title="台灣電視",三立台灣
+http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+#EXTINF:-1 group-title="台灣電視",三立综合
+http://198.16.100.90:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
+#EXTINF:-1 group-title="台灣電視",三立都會HD
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1020
+#EXTINF:-1 group-title="台灣電視",衛視中文HD
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1024
+#EXTINF:-1 group-title="台灣電視",東森綜合HD
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1041
+#EXTINF:-1 group-title="台灣電視",東森綜合HD
+http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1 group-title="台灣電視",東森超視
+http://198.16.100.90:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
+#EXTINF:-1 group-title="台灣電視",東森超視
+rtmp://9sv2.mine.nu:1935/sat/tv331
+#EXTINF:-1 group-title="台灣電視",東森超視
+https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8
+#EXTINF:-1 group-title="台灣電視",東森超視
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="台灣電視",超視34.5
+http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="台灣電視",東森戲劇
+http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+
+#EXTINF:-1 group-title="購物",東森購物
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:-1 group-title="購物",東森購物
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+#EXTINF:-1 group-title="購物",MOMO購物1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+#EXTINF:-1 group-title="購物",MOMO購物2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+
+
+#EXTINF:-1 group-title="台灣電視",MOMO綜合
+rtmp://9sv2.mine.nu/sat/tv761
+#EXTINF:-1 group-title="台灣電視",MOMO綜合台
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1248
+#EXTINF:-1 ,美食星球
+http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+#EXTINF:-1 group-title="台灣電視",JET綜合
+http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
+#EXTINF:-1 group-title="台灣電視",中天綜合
+http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1 group-title="台灣電視",中天娛樂
+http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1 group-title="台灣電視",中天娛樂HD
+http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+#EXTINF:-1 group-title="台灣電視",中天亞洲台
+http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
+#EXTINF:-1 group-title="台灣電視",東風
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+#EXTINF:-1 group-title="台灣電視",年代MUCH
+http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1 group-title="台灣電視",MUCH TV
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1189
+#EXTINF:-1 group-title="台灣電視",TVBS HD
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1251
+#EXTINF:-1 group-title="台灣電視",TVBS歡樂
+rtmp://9sv2.mine.nu:1935/sat/tv421
+#EXTINF:-1 group-title="台灣電視",TVBS歡樂
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1018
+#EXTINF:-1 ,龍華偶像
+http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+#EXTINF:-1 group-title="台灣電視",龍華偶像劇
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1235
+#EXTINF:-1 group-title="台灣電視",Taiwan Plus
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1238
+#EXTINF:-1 group-title="台灣電視",靖天國際台
+http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
+
+
+#EXTINF:-1 group-title="新聞",民視新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 group-title="新聞",民視新聞
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1 group-title="新聞",民視新聞
+http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
+#EXTINF:-1 group-title="新聞",民視新聞
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="新聞",民視新聞
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="新聞",華視新聞
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 group-title="新聞",台視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="新聞",台視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="新聞",台視新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 group-title="新聞",台視新聞
+https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 group-title="新聞",中視新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="新聞",中視新聞
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1 group-title="新聞",中視新聞
+http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
+#EXTINF:-1 group-title="新聞",公視新聞
+https://www.youtube.com/watch?v=quwqlazU-c8
+#EXTINF:-1 group-title="新聞",中天新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 group-title="新聞",中天新聞HD
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1015
+#EXTINF:-1 group-title="新聞",中天新聞
+https://www.youtube.com/watch?v=oIgbl7t0S_w
+#EXTINF:-1 group-title="新聞",中天新聞2台
+https://www.youtube.com/watch?v=WPfPjbOLNfE
+#EXTINF:-1 group-title="新聞",TVBS新聞
+rtmp://9sv2.mine.nu/sat/tv551
+#EXTINF:-1 group-title="新聞",TVBS新聞
+rtmp://9sv2.mine.nu:1935/sat/tv551
+#EXTINF:-1 group-title="新聞",TVBS新聞
+http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 group-title="新聞",TVBS新聞HD
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1051
+#EXTINF:-1 group-title="新聞",TVBS NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1 group-title="新聞",TVBS新聞
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="新聞",TVBS新聞
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="新聞",TVBS新聞
+http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+#EXTINF:-1 group-title="新聞",TVBS Live
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1 group-title="新聞",三立新聞
+http://125.227.210.55:35238/VideoInput/play.ts
+#EXTINF:-1 group-title="新聞",三立新聞
+https://www.youtube.com/watch?v=oZdzzvxTfUY
+#EXTINF:-1 group-title="新聞",三立新聞
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1016
+#EXTINF:-1 group-title="新聞",三立iNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 group-title="新聞",三立iNEWS
+https://www.youtube.com/watch?v=CKjSm5ZeehE
+#EXTINF:-1 group-title="新聞",三立NEWS+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 group-title="新聞",壹新聞
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1242
+#EXTINF:-1 group-title="新聞",年代新聞
+http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+#EXTINF:-1 group-title="新聞",東森新聞
+http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 group-title="新聞",東森新聞
+https://www.youtube.com/watch?v=S5WOGu2HSes
+#EXTINF:-1 group-title="新聞",東森新聞
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1014
+#EXTINF:-1 group-title="新聞",東森新聞
+http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 group-title="新聞",東森財經
+https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
+#EXTINF:-1 group-title="新聞",東森財經
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 group-title="新聞",東森財經
+https://www.youtube.com/watch?v=WHEPzbFA3hw
+#EXTINF:-1 group-title="新聞",東森財經
+rtmp://9sv2.mine.nu/sat/tv571
+#EXTINF:-1 group-title="新聞",東森財經
+rtmp://9sv2.mine.nu:1935/sat/tv571
+#EXTINF:-1 group-title="新聞",東森財經
+http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
+#EXTINF:-1 group-title="新聞",非凡新聞
+http://125.227.210.55:28993/VideoInput/play.ts
+#EXTINF:-1 ,非凡新聞台
+http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
+#EXTINF:-1 group-title="新聞",非凡新聞
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1013
+#EXTINF:-1 group-title="新聞",非凡商業
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1012
+#EXTINF:-1 group-title="新聞",寰宇新聞
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1222
+#EXTINF:-1 group-title="新聞",鏡新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 group-title="新聞",鏡新聞
+https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1 group-title="新聞",TaiwanPlus
+https://www.youtube.com/watch?v=dZp87qnWelE
+#EXTINF:-1 group-title="新聞",寰宇新聞台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 group-title="新聞",寰宇國際新聞
+https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+
+#EXTINF:-1 ,民視第一台
+http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
+
+
+#EXTINF:-1 group-title="台灣電視",萬秀豬王
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+#EXTINF:-1 group-title="台灣電視",Bloomberg News
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1066
+
+#EXTINF:-1 group-title="電影",衛視電影台
+http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+#EXTINF:-1 group-title="電影",衛視電影
+http://211.23.114.106:8525/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
+#EXTINF:-1 group-title="電影",衛視電影HD
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1031
+#EXTINF:-1 group-title="電影",STAR MOVIES GOLD
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1032
+#EXTINF:-1 group-title="電影",Star World
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1040
+#EXTINF:-1 group-title="電影",緯來電影HD
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1183
+#EXTINF:-1 ,龍祥時代
+http://198.16.100.90:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
+#EXTINF:-1 group-title="電影",龍華電影台
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1245
+#EXTINF:-1 group-title="電影",HBO
+http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1 group-title="電影",HBO HD
+http://125.227.210.55:35210/VideoInput/play.ts
+#EXTINF:-1 group-title="電影",好萊塢電影HD
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1025
+#EXTINF:-1 group-title="電影",AXN
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1054
+#EXTINF:-1 group-title="電影",CINEMAX HD
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1030
+
+
+#EXTINF:-1 group-title="台灣電視",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1 group-title="台灣電視",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="台灣電視",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="台灣電視",信大電視台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+#EXTINF:-1 group-title="台灣電視",大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+#EXTINF:-1 group-title="台灣電視",民視台灣台
+http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
+#EXTINF:-1 group-title="台灣電視",民視戲劇
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+#EXTINF:-1 group-title="台灣電視",民視戲劇
+https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
+#EXTINF:-1 group-title="台灣電視",華視戲劇
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 group-title="台灣電視",華視戲劇
+https://ytm2.yuanhsing.cf/ctsprog.m3u8
+#EXTINF:-1 group-title="台灣電視",華視綜藝
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 group-title="台灣電視",華視綜藝
+https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
+#EXTINF:-1 ,愛爾逹影劇台
+http://198.16.100.90:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
+
+#EXTINF:-1 group-title="台灣電視",天映頻道
+http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+#EXTINF:-1 group-title="台灣電視",海峽衛視HD
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1035
+
+
+#EXTINF:-1 group-title="體育",緯來體育
+rtmp://9sv2.mine.nu/sat/tv721
+#EXTINF:-1 group-title="體育",緯來體育HD
+http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
+#EXTINF:-1 group-title="體育",博斯網球
+rtmp://9sv2.mine.nu/sat/md011
+#EXTINF:-1 group-title="體育",博斯運動I
+rtmp://9sv2.mine.nu/sat/md021
+#EXTINF:-1 group-title="體育",博斯運動一
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1225
+#EXTINF:-1 group-title="體育",博斯運動II
+http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+#EXTINF:-1 group-title="體育",ELEVEN 1
+rtmp://9sv2.mine.nu/sat/tv731
+#EXTINF:-1 group-title="體育",ELEVEN 1
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1069
+#EXTINF:-1 group-title="體育",ELEVEN 2
+http://lzoq.hk3.20212021.cf/gt/能看多久随缘.php?id=1072
+#EXTINF:-1 group-title="體育",ELEVEN 2
+rtmp://9sv2.mine.nu/sat/tv741
+#EXTINF:-1 group-title="體育",ELEVEN 2
+rtmp://9sv2.mine.nu:1935/sat/md011
+
+#EXTINF:-1 group-title="體育",ELTA體育3
+rtmp://9sv2.mine.nu:1935/sat/md051
+#EXTINF:-1 group-title="體育",ELTA體育4
+rtmp://9sv2.mine.nu:1935/sat/md051
+#EXTINF:-1 group-title="體育",ELTA體育4
+rtmp://9sv2.mine.nu:1935/sat/md041
+
+#EXTINF:-1 ,GOODTV道在人間HD
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8
+#EXTINF:-1 ,GOODTV好消息HD
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
+#EXTINF:-1 ,GOODTV好消息卡通
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+#EXTINF:-1 ,GOODTV好醫生HD
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
+#EXTINF:-1 ,GOODTV經典音樂河HD
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+#EXTINF:-1 ,GOODTV旅行HD
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+#EXTINF:-1 ,GOODTV聽我唱HD
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch31-2.m3u8
+#EXTINF:-1 ,GOODTV維他命HD
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch12-2.m3u8
+#EXTINF:-1 ,GOODTV迎接復興HD
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch7-2.m3u8
+#EXTINF:-1 ,好消息 2
+http://198.16.100.90:8278/good2_twn/playlist.m3u8?tid=MB3B3734070237340702&ct=19249&tsum=611b90a32eb986741a0b15652178c428
+
+
+#EXTINF:-1 group-title="台灣電視",新玫瑰瞳鈴眼
+https://yt-stream.livednow.com/stream/dZNl1pqkPuA/master.m3u8
+#EXTINF:-1 group-title="台灣電視",藍色水玲瓏
+https://yt-stream.livednow.com/stream/298QROP4xe0/master.m3u8
+#EXTINF:-1 group-title="台灣電視",廉政英雄
+https://yt-stream.livednow.com/stream/wJ5i4x9_kEY/master.m3u8
+#EXTINF:-1 group-title="台灣電視",新兵日記
+https://yt-stream.livednow.com/stream/hbm8Uov-YOE/master.m3u8
+#EXTINF:-1 group-title="台灣電視",我愛冰冰Show
+https://yt-stream.livednow.com/stream/RsiJlzZPxjQ/master.m3u8
+#EXTINF:-1 group-title="台灣電視",終極系列
+https://yt-stream.livednow.com/stream/T3AlisdZ6x8/master.m3u8
+#EXTINF:-1 group-title="台灣電視",台灣靈異事件
+https://yt-stream.livednow.com/stream/2XaxCsk0Oj0/master.m3u8
+
+#EXTINF:-1 group-title="台灣電視",🔮奥視2
+http://125.227.210.55:55643/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣電視",🍑驚艷台
+http://125.227.210.55:57286/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣電視",🌭香蕉台
+http://125.227.210.55:22522/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣電視",花花公子
+http://181.78.208.254:8010/play/a04e/index.m3u8
+
